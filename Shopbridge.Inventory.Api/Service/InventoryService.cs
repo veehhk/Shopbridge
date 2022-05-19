@@ -72,10 +72,6 @@ namespace Shopbridge.Inventory.Api.Service
                 return Result.Fail();
             }
 
-            domain = entity.ToDomain();
-
-            //Call Domain Behaviors of InventoryDomain
-
             entity = domain.ToEntity();
 
             await _repository.UpdateAsync(entity.Id, entity);

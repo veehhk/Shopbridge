@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32510.428
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopbridge.Framework", "Shopbridge.Framework\Shopbridge.Framework.csproj", "{8A1481C2-9BF4-4F6C-89C9-D936A0E761C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shopbridge.Framework", "Shopbridge.Framework\Shopbridge.Framework.csproj", "{8A1481C2-9BF4-4F6C-89C9-D936A0E761C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopbridge.Inventory.Api", "Shopbridge.Inventory.Api\Shopbridge.Inventory.Api.csproj", "{945500E2-90DA-4988-8C2C-6F86E1A9B14A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shopbridge.Inventory.Api", "Shopbridge.Inventory.Api\Shopbridge.Inventory.Api.csproj", "{945500E2-90DA-4988-8C2C-6F86E1A9B14A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
